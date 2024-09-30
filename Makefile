@@ -1,2 +1,2 @@
-askuser: askuser.c
-	gcc askuser.c -o ask
+childparent: childparent.c
+	gcc childparent.c -o childparent
